@@ -1,0 +1,8 @@
+{
+  "name": "cypress-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MyeonghoonNam/Cypress-Study.git",
+  "author": "MyeongHoonNam <codenmh0822@naver.com>",
+  "license": "MIT"
+}
